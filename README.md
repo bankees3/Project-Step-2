@@ -6,7 +6,7 @@
 ### December, 2020
 
 #
-[Database Diagram] (Landlord and Tennant Reviews.pdf)
+![Database Diagram] (Landlord and Tennant Reviews.pdf)
 
 Almost everyone has been a tenant in their lives, and we all have different experiences with landlords.
 This will be a space to give a review of your time living in the residence.
